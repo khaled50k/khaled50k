@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled Walead Abu Eriban</h1>
-<h3 align="center">Versatile Full Stack Developer Proficient in Node.js, React, Vue.js, and PHP</h3>
+<h3 align="center">Versatile Full Stack Developer Proficient in Laravel, Next.js, Node.js, React, Vue.js, and PHP</h3>
 
 ###
 
